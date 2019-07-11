@@ -42,6 +42,7 @@ assign [class="Thunderbird"] 5
 exec google-chrome
 exec thunderbird
 exec clipit
+exec nm-applet
 
 # xrandr --listmonitors
 # worspaces assign
